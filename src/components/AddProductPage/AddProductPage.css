@@ -1,0 +1,12 @@
+.add-product-page {
+    padding: 20px;
+  }
+  
+  .add-product-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .add-product-page .button-bcolor {
+    background-color: #ff9999;
+  }
+  
